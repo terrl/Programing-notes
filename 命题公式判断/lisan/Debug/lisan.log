@@ -1,0 +1,13 @@
+﻿  lisan.cpp
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(68): error C2065: “i”: 未声明的标识符
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(73): error C2065: “i”: 未声明的标识符
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(89): error C2065: “i”: 未声明的标识符
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(90): error C2065: “i”: 未声明的标识符
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(90): error C2660: “distinct”: 函数不接受 2 个参数
+  e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(12): note: 参见“distinct”的声明
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(103): error C2065: “i”: 未声明的标识符
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(105): error C2065: “i”: 未声明的标识符
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(108): error C2065: “i”: 未声明的标识符
+e:\vs17\新建文件夹\lisan\lisan\lisan.cpp(110): error C2065: “i”: 未声明的标识符
