@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chess.svg</file>
+        <file>images/win.jpg</file>
+        <file>images/b.jpg</file>
+        <file>images/background.jpg</file>
+    </qresource>
+</RCC>
